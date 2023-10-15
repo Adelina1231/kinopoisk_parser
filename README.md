@@ -49,3 +49,7 @@ pip install -r requirements.txt
 ```
 py movies.py
 ```
+
+## Автор
+
+Аделина Тазиева https://github.com/Adelina1231
